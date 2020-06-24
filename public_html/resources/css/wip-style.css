@@ -1,0 +1,19 @@
+.wip-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 92vh;
+  margin: 8vh 7vw 0 7vw;
+  text-align: center;
+}
+
+.wip-content img {
+  width: 70%;
+  height: auto;
+  padding-bottom: 40px;
+}
+
+.wip-content h1 {
+  max-width: 70%;
+}
